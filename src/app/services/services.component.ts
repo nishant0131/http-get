@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-//import * as $ from 'jquery';
+import './slider.js';  
 
 @Component({
   selector: 'app-services',
