@@ -19,17 +19,17 @@ body {
   box-shadow:0px 2px 5px 1px rgba(0, 0, 0, .6);
 }
 
-.slider .banner {
+/* .slider .banner {
   background:#66CCCC;
-  position:absolute;
+  position:;
   margin-top:23px;
   margin-left:-15px;
   height:40px;
   width:115px;
   transform:rotate(-45deg);
   -ms-transform:rotate(-45deg); /* IE 9 */
-  -webkit-transform:rotate(-45deg); /* Safari and Chrome */
-}
+  /* -webkit-transform:rotate(-45deg); Safari and Chrome */
+/* }
 
 .slider .banner span {
   color:white;
@@ -58,7 +58,7 @@ body {
       margin-left:-39px;
 	    border-top:40px solid transparent;
 	    border-right:40px solid #66CCCC;
-}
+} */
 
 .slider:before {
   content:"";
