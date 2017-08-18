@@ -15,6 +15,8 @@ import { PrincipalComponent } from './principal/principal.component';
 import { FacilitiesComponent } from './facilities/facilities.component';
 import { LocationComponent } from './location/location.component';
 import { CurriculamComponent } from './curriculam/curriculam.component';
+import { FooterComponent } from './footer/footer.component';
+import { NavComponent } from './nav/nav.component';
 
 
 @NgModule({
@@ -26,6 +28,8 @@ import { CurriculamComponent } from './curriculam/curriculam.component';
     FacilitiesComponent,
     LocationComponent,
     CurriculamComponent,
+    FooterComponent,
+    NavComponent,
  ],
   imports: [
     BrowserModule,

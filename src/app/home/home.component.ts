@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-
+import './slider.js';
 @Component({
   selector: 'app-home',
   templateUrl: './home.component.html',
