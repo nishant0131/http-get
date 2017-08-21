@@ -3,7 +3,7 @@
 @import "~font-awesome/css/font-awesome.css";
 
 
- body{
+ /* body{
      background: url("http://mdbootstrap.com/images/regular/city/img%20(17).jpg")no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -14,7 +14,7 @@
     background-repeat: no-repeat;
     background-color: rgba(0,0,0,.7);
   
-}
+} */
 
 .navbar {
   background: crimson;

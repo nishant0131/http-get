@@ -10,11 +10,7 @@ import { routing } from "./app.routing";
 //import { SocialShareModule } from 'social-share-ng2';
 //import {DayPilot} from "daypilot-pro-angular"
 import * as $ from 'jquery';
-import { StaffComponent } from './staff/staff.component';
-import { PrincipalComponent } from './principal/principal.component';
-import { FacilitiesComponent } from './facilities/facilities.component';
-import { LocationComponent } from './location/location.component';
-import { CurriculamComponent } from './curriculam/curriculam.component';
+
 import { FooterComponent } from './footer/footer.component';
 import { NavComponent } from './nav/nav.component';
 import { EmployeeListComponent } from './employee-list.component'
@@ -24,11 +20,6 @@ import { EmployeeListComponent } from './employee-list.component'
   declarations: [
     AppComponent,
     HomeComponent,
-    StaffComponent,
-    PrincipalComponent,
-    FacilitiesComponent,
-    LocationComponent,
-    CurriculamComponent,
     FooterComponent,
     NavComponent,
     EmployeeListComponent,
