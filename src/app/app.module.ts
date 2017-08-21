@@ -17,6 +17,7 @@ import { LocationComponent } from './location/location.component';
 import { CurriculamComponent } from './curriculam/curriculam.component';
 import { FooterComponent } from './footer/footer.component';
 import { NavComponent } from './nav/nav.component';
+import { EmployeeListComponent } from './employee-list.component'
 
 
 @NgModule({
@@ -30,6 +31,7 @@ import { NavComponent } from './nav/nav.component';
     CurriculamComponent,
     FooterComponent,
     NavComponent,
+    EmployeeListComponent,
  ],
   imports: [
     BrowserModule,
